@@ -11,4 +11,3 @@ catch (Exception $e) {
     require 'erreur.php';           // Génération de la vue d'erreur
 }
 
-/* Test */
